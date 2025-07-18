@@ -6,7 +6,7 @@ import {
   matchSymbol,
   Sexp,
   v,
-} from "@cicada-lang/sexp"
+} from "@xieyuheng/sexp"
 import type { Exp } from "../exp"
 import * as Exps from "../exp"
 

@@ -1,4 +1,4 @@
-import { ReadlineRepl } from "@cicada-lang/framework/lib/repls/readline-repl"
+import { ReadlineRepl } from "@xieyuheng/framework/lib/repls/readline-repl"
 import { Command, CommandRunner } from "@xieyuheng/command-line"
 import Path from "path"
 

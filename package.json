@@ -1,7 +1,7 @@
 {
-  "name": "@cicada-lang/mugda",
+  "name": "@xieyuheng/mugda",
   "version": "0.1.22",
-  "repository": "github:cicada-lang/mugda",
+  "repository": "github:xieyuheng/mugda",
   "main": "./lib/index.js",
   "files": [
     "src",
@@ -22,9 +22,9 @@
     "format": "prettier src --write"
   },
   "dependencies": {
-    "@cicada-lang/framework": "^0.1.5",
-    "@cicada-lang/partech": "^0.2.5",
-    "@cicada-lang/sexp": "^0.0.36",
+    "@xieyuheng/framework": "^0.1.5",
+    "@xieyuheng/partech": "^0.2.5",
+    "@xieyuheng/sexp": "^0.0.36",
     "@xieyuheng/command-line": "^0.0.11",
     "@xieyuheng/ty": "^0.1.23",
     "commonmark": "^0.30.0",

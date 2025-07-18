@@ -7,7 +7,7 @@ import {
   matchSymbol,
   Sexp,
   v,
-} from "@cicada-lang/sexp"
+} from "@xieyuheng/sexp"
 import * as Exps from "../exp"
 import type { Pattern } from "../pattern"
 import * as Patterns from "../pattern"

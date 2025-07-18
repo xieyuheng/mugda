@@ -1,4 +1,4 @@
-import { ReplEvent, ReplEventHandler } from "@cicada-lang/framework/lib/repl"
+import { ReplEvent, ReplEventHandler } from "@xieyuheng/framework/lib/repl"
 import fs from "fs"
 import * as Errors from "../lang/errors"
 import { Parser } from "../lang/syntax"

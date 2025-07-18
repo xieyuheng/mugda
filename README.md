@@ -34,7 +34,7 @@ is learnt from ["The Little Typer"](https://mitpress.mit.edu/9780262536431/the-l
 Install it by the following command:
 
 ```sh
-npm install -g @cicada-lang/mugda
+npm install -g @xieyuheng/mugda
 ```
 
 The command-line program is called `mu`.
